@@ -6,3 +6,6 @@ print("name3 = ", name3)
 name4 = "near"
 name5 = name3 + name4
 print("name5 = ", name5)
+
+float a = 10
+print(a)
